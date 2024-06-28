@@ -1,6 +1,6 @@
 # SupraAR
  SupraAR Demo
-Using your mobile go to https://conn3cted.github.io/SupraAR/
+Using your mobile go to https://conn3cted.github.io/Supra-AR-POC/
 
 OR 
 Sacn QR code with mobile mobile. 
