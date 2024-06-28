@@ -12,9 +12,9 @@
   </head>
   <body>
     <!-- <model-viewer> HTML element -->
-    <model-viewer src="betterv1.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" ar-scale="auto" 
-    ar-placement="floor"  shadow-intensity="1" scale="0.2 0.2 0.2" 
-    rotation="0deg 0deg 0deg"  camera-orbit="150.8deg 80.43deg 29.76m" auto-rotate alt="A 3D model of a Toyota Supra" >
+    <model-viewer src="betterv1.glb" ar auto-rotate ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" ar-scale="auto" 
+    ar-placement="floor"  shadow-intensity="1" scale="0.2 0.2 0.2" camera-target="1m 0m 0m" touch-action="pan-y" 
+    rotation="0deg 180deg 0deg" camera-orbit="150.8deg 80.43deg 29.76m" max-camera-orbit="auto 90deg auto"  alt="A 3D model of a Toyota Supra" >
       <div class="progress-bar hide" slot="progress-bar">
           <div class="update-bar"></div>
       </div>
