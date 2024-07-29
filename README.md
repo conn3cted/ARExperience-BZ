@@ -1,5 +1,4 @@
-# SupraAR
- SupraAR Demo
+# ARExperience-BZ
 Using your mobile go to https://conn3cted.github.io/ARExperience-BZ/
 
 OR 
